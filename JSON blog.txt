@@ -28,7 +28,7 @@ The basic syntax of a for loop is as follows:
 
                            
                            EXAMPLE
-
+Formate
 
 for (initialization; condition; increment/decrement) {
   // code to be executed
