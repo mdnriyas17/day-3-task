@@ -1,0 +1,7 @@
+              JSON LOOPS (for, for in, for of, for each)
+
+JSON (JavaScript Object Notation) is a lightweight data interchange format that is widely used for data exchange between the client and the server. 
+JSON is a text-based format, and its data structure is similar to that of a JavaScript object, 
+making it easy to work with in JavaScript.
+
+
